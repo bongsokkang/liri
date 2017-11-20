@@ -1,0 +1,22 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "siri liri",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bongsokkang/liri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bongsokkang/liri/issues"
+  },
+  "homepage": "https://github.com/bongsokkang/liri#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
